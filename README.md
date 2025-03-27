@@ -1,4 +1,6 @@
 # Jogo-Girotto
+Grupo: Matheus Lima e Gustavo Alencar
+
 🎮 Jogos: Perguntas e Respostas, Cobra na Caixa e GousmaSwarm
 
 📌 Sobre o Projeto
