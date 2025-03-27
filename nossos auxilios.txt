@@ -1,0 +1,8 @@
+Para a organização e estruturação do código, utilizamos o ChatGPT, pois nossa experiência com programação ainda é limitada. 
+Estávamos enfrentando dificuldades em resolver certos problemas e,
+apesar de tentarmos buscar ajuda entre os colegas da faculdade, nenhum deles tinha uma solução clara.
+Abaixo, coloco o link para verificar as perguntas feitas ao ChatGPT durante o processo de organização do código.
+
+https://docs.google.com/document/d/1Aep8B76SmuY0Hm7kl--wAEPQomZR2OFifR_z9aU6dlg/edit?usp=sharing
+
+https://docs.google.com/document/d/1nX0vxrvfsCvvs5N-yRfOzhsZdnZuL5RBe3F5Z4srOC0/edit?usp=sharing
