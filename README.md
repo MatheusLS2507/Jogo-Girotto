@@ -27,14 +27,7 @@ Sugerir ideias para novas mecânicas.
 
 Baixe o projeto:
 
-E execute o JC.c
-
-Ou separadamente se preferir
-
-O J1.c
-O J2.c
-
-E por fim J3.c
+E Main.c
 
 🤝 Contribuições
 
