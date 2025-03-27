@@ -27,7 +27,7 @@ Sugerir ideias para novas mecânicas.
 
 Baixe o projeto:
 
-E Main.c
+E Execute Main.c
 
 🤝 Contribuições
 
